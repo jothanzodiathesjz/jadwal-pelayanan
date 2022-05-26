@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    font-family: 'jetBrains Mono', Courier, monospace;
+    background-color: aliceblue;
+    font-size: 13px;
+}
+
+.clear {
+	clear: both;
+}
+
+.konten{
+    width: 100%;
+}
